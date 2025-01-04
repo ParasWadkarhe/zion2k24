@@ -39,7 +39,7 @@
     "eventName": "Neo Coding",
     "eventDescription": "Welcome to Neo-Coding, where the virtual arena transforms into a battleground for the sharpest minds in the realm of programming.Neo-Coding is a 4 round technical event designed to push the boundaries of participants coding prowess. Neo - Coding is open to coding enthusiasts, programmers, and developers from all backgrounds and skill levels.",
     "eventDetails": {
-      "dateAndTime": "1-3 April",
+      "dateAndTime": "2 April",
       "prizePool": "5000Rs",
       "entryFee": "Solo-60 | Duo-100",
       "teamSize": "1-2"
@@ -73,7 +73,6 @@
   },
   {
     "eventName": "HOVR",    
-    "cname":"Onground",
     "eventDescription": "Use HoVR to take a space walk and fulfill your visualization experience in Virtual Reality(VR).",
     "eventDetails": {
       "dateAndTime": "1-3 April",
@@ -82,7 +81,7 @@
       "teamSize": "Solo"
     },
     "img":"./assets/zionevents/3.png",
-    "gform":"https://docs.google.com/forms/d/1wDEYFYusc8nRR5mRmgBOIjHZEJ2gATGIsGJzz0kbARg/viewform?edit_requested=true",
+    "gform":"https://forms.gle/8ib26WunUimGyP7D8",
     "eventRounds": [
       {
         "roundName": "Description",
@@ -200,47 +199,6 @@
     ]
   },
   {
-    "eventName": "Software ExhibIT",
-    "cname":"Onground",
-    "eventDescription": "Software Exhibit  by ITSA in collaboration with ZION  is a Software Projects Exhibition of final year students. It is the showcase of innovation and practical application of their technical knowledge. Participants have to present their projects which could range from various domains in IT sector.",
-    "eventDetails": {
-      "dateAndTime": "1-3 April",
-      "prizePool": "5000Rs",
-      "entryFee": "FREE",
-      "teamSize": "-"
-    },
-    "img":"./assets/zionevents/7.png",
-    "gform":"https://forms.gle/heSV24w3RxNoAWai9",
-    "eventRounds": [
-      {
-        "roundName": "",
-        "roundDescription": "Each project will demonstrates creativity, technical skills and problem solving abilities of students. Participation certificates will be provided to  all Participants. "
-      },
-      {
-        "roundName": "Eligibility Criteria",
-        "roundDescription": "1. Participants must be students of Dr. D Y Patil Institute of Technology, Pimpri, Pune"
-      },
-      {
-        "roundName": "",
-        "roundDescription": "2. Participants must be final year students"
-      },
-      {
-        "roundName": "Judging Criteria",
-        "roundDescription": "Judges will evaluate the projects based on functionality, feasibility, innovation and presentation."
-      },
-      {
-        "roundName": "",
-        "roundDescription": "Note:- Registrations will be done on the same day!"
-      }
-    ],
-    "eventCoordinators": [
-      {
-        "name": "Vaibhav Jagtap",
-        "phone": "9359913123"
-      }
-    ]
-  },
-  {
     "eventName": "Impromptu ",
     "eventDescription": "Welcome to Impromptu: Challenge, where spontaneity meets style in an exhilarating showcase of creativity and innovation! With 60 talented participants divided into two slots of 30, get ready for a whirlwind design.",
     "eventDetails": {
@@ -331,8 +289,8 @@
     ],
     "eventCoordinators": [
       {
-        "name": "Gargee Rajput",
-        "phone": "8308898103"
+        "name": "Gargi",
+        "phone": ""
       }
     ]
   },
@@ -584,7 +542,7 @@
     "eventDetails": {
       "dateAndTime": "1-3 April",
       "prizePool": "5000Rs",
-      "entryFee": "Duo - 100 | Trio - 150 | Squad - 200",
+      "entryFee": "Duo - 60 | Trio - 100 | Squad - 150",
       "teamSize": "2-4"
     },
     "img":"./assets/zionevents/19.png",
@@ -742,7 +700,7 @@
     "eventCoordinators": [
       {
         "name": "Harshad Sampad",
-        "phone": "9922026188"
+        "phone": "7666033855"
       }
     ]
   },

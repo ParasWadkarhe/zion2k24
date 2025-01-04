@@ -6,13 +6,13 @@ const EventTeam = () => {
   return (
     <div className="eventteam" id="team">
       <div className="eventteam-title">ZION Committee</div>
-      <div className="eventteam-title-pos">Head Coordinators</div>
+      <div className="eventteam-title-pos">Head Coordinator</div>
       <div className="eventteam-container">
           {/* <Fade direction="top" duration={2000} triggerOnce="true"> */}
         <div className="eventteam-card">
             <img
               className="eventteam-img"
-              src="./assets/personicon.png"
+              src="./assets/picon.png"
               alt="Team Member 1"
             />
             <h2 className="eventteam-name">Atharva Athanikar</h2>
@@ -39,7 +39,7 @@ const EventTeam = () => {
         <div className="eventteam-card">
             <img
               className="eventteam-img"
-              src="./assets/personicon.png"
+              src="./assets/picon.png"
               alt="Team Member 1"
             />
             <h2 className="eventteam-name">Soham Gurav</h2>
@@ -66,7 +66,7 @@ const EventTeam = () => {
         <div className="eventteam-card">
             <img
               className="eventteam-img"
-              src="./assets/personicon.png"
+              src="./assets/picon.png"
               alt="Team Member 1"
             />
             <h2 className="eventteam-name">Riya Wankhede</h2>
@@ -92,13 +92,13 @@ const EventTeam = () => {
         </div>
           {/* </Fade> */}
       </div>
-      <div className="eventteam-title-pos">Event Head Managers</div>
+      <div className="eventteam-title-pos">Event Head Manager</div>
       <div className="eventteam-container">
           {/* <Fade direction="top" duration={2000} triggerOnce="true"> */}
         <div className="eventteam-card">
             <img
               className="eventteam-img"
-              src="./assets/personicon.png"
+              src="./assets/picon.png"
               alt="Team Member 1"
             />
             <h2 className="eventteam-name">Pratik Kakade</h2>
@@ -141,7 +141,7 @@ const EventTeam = () => {
               </a>
               <a
                 className="whatsapp-anchor"
-                href="https://www.linkedin.com/in/sharvari-hinge-b34b86249"
+                href="zion-dit.vercel.app"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -152,7 +152,7 @@ const EventTeam = () => {
         <div className="eventteam-card">
             <img
               className="eventteam-img"
-              src="./assets/personicon.png"
+              src="./assets/picon.png"
               alt="Team Member 1"
             />
             <h2 className="eventteam-name">Atharv Jagtap</h2>
@@ -178,13 +178,13 @@ const EventTeam = () => {
         </div>
           {/* </Fade> */}
       </div>
-      <div className="eventteam-title-pos">Finance Heads</div>
+      <div className="eventteam-title-pos">Finance Head</div>
       <div className="eventteam-container">
           {/* <Fade direction="top" duration={2000} triggerOnce="true"> */}
         <div className="eventteam-card">
             <img
               className="eventteam-img"
-              src="./assets/personicon.png"
+              src="./assets/picon.png"
               alt="Team Member 1"
             />
             <h2 className="eventteam-name">Mayank Sharma</h2>
@@ -211,7 +211,7 @@ const EventTeam = () => {
         <div className="eventteam-card">
             <img
               className="eventteam-img"
-              src="./assets/personicon.png"
+              src="./assets/picon.png"
               alt="Team Member 1"
             />
             <h2 className="eventteam-name">Sandesh Dindore</h2>
@@ -237,13 +237,13 @@ const EventTeam = () => {
         </div>
           {/* </Fade> */}
       </div>
-      <div className="eventteam-title-pos">Marketing Head</div>
+      <div className="eventteam-title-pos">Marketing Heads</div>
       <div className="eventteam-container">
           {/* <Fade direction="top" duration={2000} triggerOnce="true"> */}
         <div className="eventteam-card">
             <img
               className="eventteam-img"
-              src="./assets/personicon.png"
+              src="./assets/picon.png"
               alt="Team Member 1"
             />
             <h2 className="eventteam-name">Vijay Tiwari</h2>
@@ -302,7 +302,7 @@ const EventTeam = () => {
         <div className="eventteam-card">
             <img
               className="eventteam-img"
-              src="./assets/avi.jpg"
+              src="./assets/avii.png"
               alt="Team Member 1"
             />
             <h2 className="eventteam-name">Avishkar Dhanorkar</h2>
@@ -329,7 +329,7 @@ const EventTeam = () => {
         <div className="eventteam-card">
             <img
               className="eventteam-img"
-              src="./assets/paras.jpeg"
+              src="./assets/paras1.png"
               alt="Team Member 1"
             />
             <h2 className="eventteam-name">Paras Wadkar</h2>
@@ -337,7 +337,7 @@ const EventTeam = () => {
             <div className="eventteam-social">
               <a
                 className="whatsapp-anchor"
-                href={"mailto:paraswadkar11@gmail.com"}
+                href="zion-dit.vercel.app"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -345,7 +345,7 @@ const EventTeam = () => {
               </a>
               <a
                 className="whatsapp-anchor"
-                href="https://www.linkedin.com/in/paras-wadkar-906628292"
+                href="zion-dit.vercel.app"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -361,7 +361,7 @@ const EventTeam = () => {
         <div className="eventteam-card">
             <img
               className="eventteam-img"
-              src="./assets/personicon.png"
+              src="./assets/picon.png"
               alt="Team Member 1"
             />
             <h2 className="eventteam-name">Manik Sharma</h2>
@@ -388,7 +388,7 @@ const EventTeam = () => {
         <div className="eventteam-card">
             <img
               className="eventteam-img"
-              src="./assets/personicon.png"
+              src="./assets/picon.png"
               alt="Team Member 1"
             />
             <h2 className="eventteam-name">Arpit Gulhane</h2>
@@ -420,7 +420,7 @@ const EventTeam = () => {
         <div className="eventteam-card">
             <img
               className="eventteam-img"
-              src="./assets/personicon.png"
+              src="./assets/picon.png"
               alt="Team Member 1"
             />
             <h2 className="eventteam-name">Manthan Varsekar</h2>
@@ -446,13 +446,13 @@ const EventTeam = () => {
         </div>
           {/* </Fade> */}
       </div>
-      <div className="eventteam-title-pos">Editing Heads</div>
+      <div className="eventteam-title-pos">Video Editing</div>
       <div className="eventteam-container">
           {/* <Fade direction="top" duration={2000} triggerOnce="true"> */}
         <div className="eventteam-card">
             <img
               className="eventteam-img"
-              src="./assets/personicon.png"
+              src="./assets/picon.png"
               alt="Team Member 1"
             />
             <h2 className="eventteam-name">Atharva Ujjainkar</h2>
@@ -479,7 +479,7 @@ const EventTeam = () => {
         <div className="eventteam-card">
             <img
               className="eventteam-img"
-              src="./assets/personicon.png"
+              src="./assets/picon.png"
               alt="Team Member 1"
             />
             <h2 className="eventteam-name">Rushikesh Chaudhary</h2>
@@ -511,10 +511,70 @@ const EventTeam = () => {
         <div className="eventteam-card">
             <img
               className="eventteam-img"
-              src="./assets/personicon.png"
+              src="./assets/picon.png"
               alt="Team Member 1"
             />
             <h2 className="eventteam-name">Prarthana Pawar</h2>
+            {/* <p className="eventteam-position">Event Head</p> */}
+            <div className="eventteam-social">
+              <a
+                className="whatsapp-anchor"
+                href="zion-dit.vercel.app"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <AiFillMail className="socialImg" />
+              </a>
+              <a
+                className="whatsapp-anchor"
+                href="zion-dit.vercel.app"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <AiFillLinkedin className="socialImg" />
+              </a>
+            </div>
+        </div>
+          {/* </Fade> */}
+      </div>
+      <div className="eventteam-title-pos">Design and Creatives Head</div>
+      <div className="eventteam-container">
+          {/* <Fade direction="top" duration={2000} triggerOnce="true"> */}
+        <div className="eventteam-card">
+            <img
+              className="eventteam-img"
+              src="./assets/dbanait.jpeg"
+              alt="Team Member 1"
+            />
+            <h2 className="eventteam-name">Darshan Banait</h2>
+            {/* <p className="eventteam-position">Event Head</p> */}
+            <div className="eventteam-social">
+              <a
+                className="whatsapp-anchor"
+                href="zion-dit.vercel.app"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <AiFillMail className="socialImg" />
+              </a>
+              <a
+                className="whatsapp-anchor"
+                href="zion-dit.vercel.app"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <AiFillLinkedin className="socialImg" />
+              </a>
+            </div>
+        </div>
+          {/* <Fade direction="top" duration={2000} triggerOnce="true"> */}
+        <div className="eventteam-card">
+            <img
+              className="eventteam-img"
+              src="./assets/picon.png"
+              alt="Team Member 1"
+            />
+            <h2 className="eventteam-name">Samruddhi Rane</h2>
             {/* <p className="eventteam-position">Event Head</p> */}
             <div className="eventteam-social">
               <a
